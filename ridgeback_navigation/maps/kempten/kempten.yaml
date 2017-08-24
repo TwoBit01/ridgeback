@@ -1,0 +1,8 @@
+image: kempten.pgm
+resolution: 0.040000
+#origin: [-75.240000, -30.440000, 0.000000] previous origin (robot slam starting point)
+origin: [23.400, 16.986, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
